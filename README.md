@@ -1,5 +1,5 @@
 # Sheghun-OsoftPay-Wordpres-Woocommerce-Plugin-Payment-Gateway-Extension
-A woocomerce payment extension built by Oladiran Segun
+A woocomerce payment extension built by Oladiran Segun Solomon
 
  * Version: 0.0.1
  * Plugin URI: https://developer.osoftpay.net
